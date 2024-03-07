@@ -55,3 +55,4 @@
 
 ## ⚡Activity Graph:
 [![Bharath K's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bharath-KK&bg_color=050003&color=f3f2f3&line=9ae411&point=f5f5f5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
