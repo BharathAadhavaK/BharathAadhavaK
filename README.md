@@ -52,5 +52,6 @@
       <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="80" height="80"/>&nbsp; 
     </p>
 </div>
-⚡Activity Graph:</h2>
+
+##⚡Activity Graph:
 [![Bharath K's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bharath-KK&bg_color=050003&color=f3f2f3&line=9ae411&point=f5f5f5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
