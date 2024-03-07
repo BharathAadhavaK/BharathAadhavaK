@@ -47,7 +47,6 @@
       <img src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/mysql.png" alt="MySQL" width="80" height="80"/>&nbsp;
       <img src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/mongodb.png" alt="Mongo DB" width="80" height="80"/>&nbsp;
       <img src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/jupyter.png" alt="Jupyter Notebook" width="80" height="80"/>&nbsp;
-      <img src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/vscode.jpg" alt="VS code" width="80" height="80"/>&nbsp;
       <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="80" height="80"/>&nbsp; 
     </p>
 </div>
