@@ -43,7 +43,7 @@
       <img src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/matplot.png" alt="Matplotlib" width="80" height="80"/>&nbsp;
       <img src="https://github.com/alekha1234/alekha1234/blob/main/documents/seaborn-logo.png" alt="Seaborn" width="80" height="80"/>&nbsp;
       <img src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/sklearn.png" alt="Sciket-Learn" width="80" height="80"/>&nbsp;
-      <img src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/flask.png" alt="Flask" width="80" height="80"/>&nbsp;
+      <img src="https://github.com/alekha1234/alekha1234/blob/main/documents/flask-logo.png" alt="Flask" width="80" height="80"/>&nbsp;
       <img src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/powerbi.webp" alt="Power BI" width="80" height="80"/>&nbsp;
       <img src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/tableau.png" alt="Tableau" width="80" height="80"/>&nbsp;
       <img src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/mysql.png" alt="MySQL" width="80" height="80"/>&nbsp;
