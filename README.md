@@ -20,8 +20,8 @@
   <h3 align="left">Education:</h3>
   <h3 align="right">Certifications:</h3>
     <p>
-      <img align="left" src="https://github.com/Bharath-KK/Bharath K/blob/main/mgr.jpg" alt="Dr MGR University" width="150" height="100"/>&nbsp; 
-      <img align="right" src="https://github.com/Bharath-KK/Bharath K/blob/main/iabac.jpg" alt="IABAC" width="100" height="100"/>&nbsp;  
+      <img align="left" src="https://github.com/Bharath-KK/NawazHussainZ/blob/main/mgr.jpg" alt="Dr MGR University" width="150" height="100"/>&nbsp; 
+      <img align="right" src="https://github.com/Bharath-KK/NawazHussainZ/blob/main/iabac.jpg" alt="IABAC" width="100" height="100"/>&nbsp;  
     </p>
     <p>
       <img align="left" src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/datamites.webp" alt="DataMites" width="100" height="100"/>&nbsp; 
