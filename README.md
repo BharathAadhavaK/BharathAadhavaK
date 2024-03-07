@@ -52,3 +52,6 @@
       <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="80" height="80"/>&nbsp; 
     </p>
 </div>
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Bharath-KK?theme=dark&font=Marcellus&ext=contest)
