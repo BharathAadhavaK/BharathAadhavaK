@@ -22,14 +22,16 @@
   <h3 align="left">Education:</h3>
   <h3 align="right">Certifications:</h3>
     <p>
-      <img align="left" src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/datamites.webp" alt="DataMites" width="100" height="100"/>&nbsp;
-      <img align="right" src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/iabac.jpg" alt="IABAC" width="100" height="100"/>&nbsp;  
+      <img align="left" src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/mgr.jpg" alt="Dr MGR University" width="120" height="100"/>&nbsp;
+      <img align="right" src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/datamites.webp" alt="DataMites" width="100" height="100"/>&nbsp;    
     </p>
     <p>
-      <img align="left" src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/mgr.jpg" alt="Dr MGR University" width="110" height="100"/>&nbsp; 
-      <img align="right" src="https://github.com/alekha1234/alekha1234/blob/main/documents/nasscom-logo.png" alt="NASSCOM" width="100" height="100"/>&nbsp; 
+      <img align="left" src="https://1.bp.blogspot.com/-HS0RBZ5kXaA/XsIjlPUfK_I/AAAAAAAAD_w/eJ7OX0U1z1YZ2SyQz1uyXJnlc55QnA-EACLcBGAsYHQ/s1600/images.png" alt="NIKETAN" width="110" height="95"/>&nbsp;
+      <img align="right" src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/iabac.jpg" alt="IABAC" width="100" height="100"/>&nbsp; 
     </p>
-    <p>  
+    <p>
+      <img align="left" src="https://lh3.googleusercontent.com/proxy/edfpVwRUXQOyL3mU70GvrtPLJxO7DzlayZHNFYDVac6PuZyKI2xvsVdwl5YTdtFtTJyE3KC8ox047rHUNol8ToM5nYeaWvVJ9g" alt="St.Johns" width="100" height="100"/>&nbsp; &nbsp; &nbsp; &nbsp; 
+      <img align="right" src="https://github.com/alekha1234/alekha1234/blob/main/documents/nasscom-logo.png" alt="NASSCOM" width="100" height="100"/>&nbsp; &nbsp; &nbsp; 
     </p><br><br><br>
 </div>
 
