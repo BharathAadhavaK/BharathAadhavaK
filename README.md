@@ -30,7 +30,7 @@
       <img align="right" src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/iabac.jpg" alt="IABAC" width="100" height="100"/>&nbsp; 
     </p>
     <p>
-      <img align="left" src="https://lh3.googleusercontent.com/proxy/edfpVwRUXQOyL3mU70GvrtPLJxO7DzlayZHNFYDVac6PuZyKI2xvsVdwl5YTdtFtTJyE3KC8ox047rHUNol8ToM5nYeaWvVJ9g" alt="St.Johns" width="100" height="100"/>&nbsp; &nbsp; &nbsp; &nbsp; 
+      <img align="left" src="https://play-lh.googleusercontent.com/nHGJ6u3bzO0QBgpdfP4WZJhHYSPWvbZevmVJxgS_7ZbgiWK60zXVyWD-b1nzBFyKgQ" alt="St.Johns" width="100" height="100"/>&nbsp; &nbsp; &nbsp; &nbsp; 
       <img align="right" src="https://github.com/alekha1234/alekha1234/blob/main/documents/nasscom-logo.png" alt="NASSCOM" width="100" height="100"/>&nbsp; &nbsp; &nbsp; 
     </p><br><br><br>
 </div>
