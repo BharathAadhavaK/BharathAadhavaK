@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Airtificial Intelligent**
 - 💬 Ask me about **Machine Learning , MySQL **
-- 📫 How to reach me **bharathbroofth28@gmail.com**
+- 📫 How to reach me **bharathaadhava.k@gmail.com**
 -  👨‍💻 All of my projects are available at **https://github.com/Bharath-KK**
 - ⚡ Fun fact **I love to do Coding......**
 
